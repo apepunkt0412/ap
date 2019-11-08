@@ -1,6 +1,6 @@
 # Python Lesson
 ## Authors
-Anne Petit
+Anne Petit, 
 Felix Klein
 
 ## Date
